@@ -148,3 +148,4 @@ C:\Users\Beqa\RiderProjects\WebApplication\WebApplication\obj\Debug\net8.0\refin
 C:\Users\Beqa\RiderProjects\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.pdb
 C:\Users\Beqa\RiderProjects\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.genruntimeconfig.cache
 C:\Users\Beqa\RiderProjects\WebApplication\WebApplication\obj\Debug\net8.0\ref\WebApplication.dll
+C:\Users\Beqa\RiderProjects\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.sourcelink.json
